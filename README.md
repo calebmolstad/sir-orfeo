@@ -1,5 +1,5 @@
 ###Sir Orfeo
-This is a project to put the text of the Middle English poem *Sir Orfeo* in an open and easily accessible form, free from copy right. As a base to recreate the text I am using this book from the Internet Archive [Sir Orfeo: ein englisches Feenmärchen aus dem Mittelalter, mit Einleitung by Oscar Zielke](https://archive.org/details/sirorfeoeinengl00zielgoog)
+This is a project to put the text of the Middle English poem *Sir Orfeo* in an open and easily accessible form, free from copyright. As a base to recreate the text I am using this book from the Internet Archive [Sir Orfeo: ein englisches Feenmärchen aus dem Mittelalter, mit Einleitung by Oscar Zielke](https://archive.org/details/sirorfeoeinengl00zielgoog)
 
 For more information of *Sir Orfeo* see: [Sir Orfeo] (http://en.wikipedia.org/wiki/Sir_Orfeo)
 
